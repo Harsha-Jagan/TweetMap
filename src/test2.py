@@ -82,11 +82,11 @@ def Tweety():
 if __name__=="__main__":
     num = 10975
     #access keys
-    consumer_key = "GoCALOwINkSteUzVV9w5NNjOc"
-    consumer_secret = "G9rpjSN9Zh6GxpGjWuQZcvGpdoRTsmwR0PQsmdmvqvAohcsS5k"
+    consumer_key = "XXXXXXXXXXXXXXXXXXXXXXXX"
+    consumer_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
-    access_token = "838946038610292740-EEjxlKqX7r29GTaVy7vpYNOAwZxgdOa"
-    access_token_secret = "G7kkEw4Kq5JVNw4QNpPWar2wuUbLghyRN9TiVG0M2odkE"
+    access_token = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    access_token_secret = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
     #pass twitter credentials to tweepy
     auth = OAuthHandler(consumer_key, consumer_secret)
